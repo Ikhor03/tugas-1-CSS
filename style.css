@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
+
+p {
+    font-size: 18px;
+    color: blue;
+}
+
+/* 
+CSS adalah pasangan HTML yang harus selalu ada demi mempercantik tampilan HTML yang hanya sekadarnya. dengan CSS kita dapat merombak tampilan website menjadi lebih menarik dan menyenangkan.
+*/
